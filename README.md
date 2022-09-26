@@ -4,6 +4,8 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
+[![CI](https://github.com/akhanna007/ci-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/akhanna007/ci-actions/actions/workflows/ci.yml)
+
 
 # Continuous Integration
 
